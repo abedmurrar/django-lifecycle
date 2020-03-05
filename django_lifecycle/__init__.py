@@ -9,5 +9,5 @@ from .decorators import hook
 from .mixins import LifecycleModelMixin
 
 
-if IS_GTE_1_POINT_9:
-    from .models import LifecycleModel
+#if IS_GTE_1_POINT_9:
+#    from .models import LifecycleModel
