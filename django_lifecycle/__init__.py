@@ -1,4 +1,4 @@
-from .django_info import IS_GTE_1_POINT_9
+#from .django_info import IS_GTE_1_POINT_9
 
 
 class NotSet(object):
